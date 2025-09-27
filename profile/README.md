@@ -4,7 +4,7 @@ Welcome to the organizational repository of the [Chair of Aerodynamics and Fluid
 
 ### Developed Numerical Solvers
 
-* [jax-fluids](https://github.com/tumaer/jaxfluids), a fully-differentiable CFD solver for 3D, compressible two-phase flows written entirely in [JAX](https://github.com/google/jax).
+* [JAX-Fluids](https://github.com/tumaer/jaxfluids), a fully-differentiable CFD solver for 3D, compressible two-phase flows written entirely in [JAX](https://github.com/google/jax).
 * [ALPACA](https://github.com/tumaer/ALPACA), an MPI-parallelized C++ simulator for compressible multiphase flow physics using advanced high-resolution sharp-interface modeling empowered by multiresolution compression.
 
 ### Datasets
